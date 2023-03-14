@@ -38,4 +38,4 @@ public class thr1{
   Thread t2 = new Thread(p1);
   
  }
-}
+} 
