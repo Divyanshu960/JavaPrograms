@@ -16,7 +16,7 @@ class Consumer implements Runnable
 ArrayList a1;
 consumer(ArrayList a)
 {
-a1 = a;
+a1 = a; 
 }
   
 public void run()
