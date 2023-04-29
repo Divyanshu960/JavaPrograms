@@ -12,7 +12,7 @@ public void run()
 }
 
 class Consumer implements Runnable
-{
+{  
 ArrayList a1;
 consumer(ArrayList a)
 {
